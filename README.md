@@ -1,2 +1,2 @@
-# INFO_F404-Parallel_Programming
+# Real-Time Operating Systems: Parallel Programming: KNN classifier
  
